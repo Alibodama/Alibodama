@@ -19,9 +19,8 @@
 این ریپوها رو پین کن تا در صفحه اصلی نشون داده بشن!
 
 ### 📫 ارتباط با من
-- ایمیل: [your.email@example.com](mailto:your.email@example.com)
-- توییتر: [@yourtwitter](https://twitter.com/yourtwitter)
-- وبسایت: [yourwebsite.com](https://yourwebsite.com)
+)
+- وبسایت: [youtube.com](alibodama)
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=Alibodama.Alibodama)
 
