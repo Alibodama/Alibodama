@@ -19,8 +19,9 @@
 این ریپوها رو پین کن تا در صفحه اصلی نشون داده بشن!
 
 ### 📫 ارتباط با من
-)
-- وبسایت: [youtube.com](alibodama)
+- یوتیوب: [@alibodama](https://www.youtube.com/@alibodama)
+- PV تلگرام (بات پشتیبانی): [@poshtibani_vpn_bot](https://t.me/poshtibani_vpn_bot)
+- کانال تلگرام: [@alibodama](https://t.me/alibodama)
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=Alibodama.Alibodama)
 
