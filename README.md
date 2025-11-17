@@ -14,9 +14,6 @@
 ### 🛠 پروژه‌های برجسته
 - **[ConfigForge-V2Ray](https://github.com/Alibodama/ConfigForge-V2Ray)**: ابزار فورج کانفیگ برای V2Ray، برای ساخت کانفیگ‌های سفارشی و امن.
 - **[alibodama-workers-ai-tools](https://github.com/Alibodama/alibodama-workers-ai-tools)**: ابزارهای AI مبتنی بر Cloudflare Workers، برای اتوماسیون و پردازش هوشمند.
-- **[v2rayN](https://github.com/Alibodama/v2rayN)**: کلاینت GUI برای VPNهای پیشرفته (فورک‌شده و بهبودیافته).
-- **[ProxyCloud](https://github.com/Alibodama/ProxyCloud)**: VPN رایگان، سریع و امن.
-- **[BPB-Worker-Panel](https://github.com/Alibodama/BPB-Worker-Panel)**: پنل GUI برای مدیریت سابسکریپشن‌های Worker.
 
 این ریپوها رو پین کن تا در صفحه اصلی نشون داده بشن!
 
