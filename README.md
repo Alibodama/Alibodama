@@ -21,5 +21,3 @@
 - 📢 کانال تلگرام: [@alibodama](https://t.me/alibodama)
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=Alibodama.Alibodama)
-
-Thanks for visiting! ⭐ اگر پروژه‌ای داری، خوشحال می‌شم collaborate کنیم.
