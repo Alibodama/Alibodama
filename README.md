@@ -15,8 +15,6 @@
 - **[ConfigForge-V2Ray](https://github.com/Alibodama/ConfigForge-V2Ray)**: ابزار فورج کانفیگ برای V2Ray، برای ساخت کانفیگ‌های سفارشی و امن.
 - **[alibodama-workers-ai-tools](https://github.com/Alibodama/alibodama-workers-ai-tools)**: ابزارهای AI مبتنی بر Cloudflare Workers، برای اتوماسیون و پردازش هوشمند.
 
-این ریپوها رو پین کن تا در صفحه اصلی نشون داده بشن!
-
 ### 📫 ارتباط با من
 - 🎥 یوتیوب: [@alibodama](https://www.youtube.com/@alibodama)
 - 🤖 PV تلگرام (بات پشتیبانی): [@poshtibani_vpn_bot](https://t.me/poshtibani_vpn_bot)
