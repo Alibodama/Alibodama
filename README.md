@@ -1,16 +1,28 @@
-## Hi there 👋
+# 👋 سلام! من علی هستم (Alibodama)
 
-<!--
-**Alibodama/Alibodama** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Banner](https://img.shields.io/badge/Welcome%20to%20my%20GitHub-🚀-blueviolet?style=for-the-badge&logo=github)
 
-Here are some ideas to get you started:
+### 🌟 درباره من
+- توسعه‌دهنده علاقه‌مند به شبکه‌ها، پروکسی‌ها، VPNها و ابزارهای اوپن‌سورس.
+- تمرکز روی ابزارهایی مثل V2Ray، Telegram Bots و Cloudflare Workers.
+- همیشه در حال فورک و بهبود پروژه‌های مفید برای دسترسی آزاد به اینترنت.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📊 آمار GitHub من
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Alibodama&theme=dracula&hide_border=true&include_all_commits=true&count_private=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Alibodama&theme=dracula&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+
+### 🛠 پروژه‌های برجسته
+- **[v2rayN](https://github.com/Alibodama/v2rayN)**: کلاینت GUI برای VPNهای پیشرفته (فورک‌شده و بهبودیافته).
+- **[ProxyCloud](https://github.com/Alibodama/ProxyCloud)**: VPN رایگان، سریع و امن.
+- **[BPB-Worker-Panel](https://github.com/Alibodama/BPB-Worker-Panel)**: پنل GUI برای مدیریت سابسکریپشن‌های Worker.
+
+این ریپوها رو پین کن تا در صفحه اصلی نشون داده بشن!
+
+### 📫 ارتباط با من
+- ایمیل: [your.email@example.com](mailto:your.email@example.com)
+- توییتر: [@yourtwitter](https://twitter.com/yourtwitter)
+- وبسایت: [yourwebsite.com](https://yourwebsite.com)
+
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=Alibodama.Alibodama)
+
+Thanks for visiting! ⭐ اگر پروژه‌ای داری، خوشحال می‌شم collaborate کنیم.
